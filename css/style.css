@@ -297,14 +297,13 @@ section.hero {
     margin-top: 100px;
 }
 
-.play-btn {
-    width: 45px;
-    margin: 20px;
-}
-
 #banner a {
     color: #fff;
     text-decoration: none;
+}
+
+.bottom-img {
+    width: 100%;
 }
 
 /* services section */
